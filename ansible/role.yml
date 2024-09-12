@@ -4,3 +4,4 @@
   become : true
   roles : 
     - roles
+    # - tinyblargon.nginx   #this role is apt package, so here we can't able to run
